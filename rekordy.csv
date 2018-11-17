@@ -1,0 +1,20 @@
+pytanie,opcja1,opcja2,opcja3,opcja4,klasa
+Jakiego rodzaju ma być kierunek?,ścisły,humanistyczny,ekonomiczny,,obszarNauk
+Na jakiej uczelni ma być kierunek?,Politechnika Warszawska,Uniwersytet Warszawski,Akademia Wychowania Fizyczniego,Uniwersytet Kardynała Stefana Wyszyńskiego,uczelnia
+Mogą to być studia,Inżynierskie,Licencjackie,,,licencjacki 
+Jaki ma być język wykładowy?,angielski,polski,,,językWykładowy
+Czy chciałbyś programować?,tak,nie,nie wiem,,programowanie
+Czy chciałbyś uczyć się elektryki?,tak,nie,nie wiem,,elektrycznosc
+Czy chciałbyś uczyć się chemii?,tak,nie,nie wiem,,chemia
+Czy chciałbyś uczyć się prawa?,tak,nie,nie wiem,,prawo
+Czy chciałbyś pracować w urzędzie?,tak,nie,nie wiem,,urzędy
+Czy chciałbyś uczyć się rysować?,tak,nie,nie wiem,,rysunek
+Czy chciałbyś uczyć się mechaniki maszyn?,tak,nie,nie wiem,,mechanika
+Czy chciałbyś uczyć się biologii?,tak,nie,nie wiem,,bilogia
+Czy chciałbyś poszerzać swoją wiedze w zakresie ekologii?,tak,nie,nie wiem,,ekologia
+Czy chciałbyś zajmować się energetyką?,tak,nie,nie wiem,,energetyka
+Czy chciałbyś uczyć się fizyki?,tak,nie,nie wiem,,fizyka
+Czy chciałbyś pracować z mapami?,tak,nie,nie wiem,,mapy
+Czy chcesz pracować w przemyśle?,tak,nie,nie wiem,,przemysł
+Czy chciałbyś pracować w banku,tak,nie,nie wiem,,bank
+Czy chciałbyś zarządzać zasobami ludzkimi?,tak,nie,nie wiem,,zarządzanie
